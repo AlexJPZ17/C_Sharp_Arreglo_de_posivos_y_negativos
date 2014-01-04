@@ -1,0 +1,6 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Arreglo de posivos y negativos\Arreglo de posivos y negativos\bin\Debug\Arreglo de posivos y negativos.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Arreglo de posivos y negativos\Arreglo de posivos y negativos\bin\Debug\Arreglo de posivos y negativos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Arreglo de posivos y negativos\Arreglo de posivos y negativos\bin\Debug\Arreglo de posivos y negativos.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Arreglo de posivos y negativos\Arreglo de posivos y negativos\obj\Debug\Arreglo de posivos y negativos.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Arreglo de posivos y negativos\Arreglo de posivos y negativos\obj\Debug\Arreglo de posivos y negativos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Arreglo de posivos y negativos\Arreglo de posivos y negativos\obj\Debug\Arreglo de posivos y negativos.pdb
